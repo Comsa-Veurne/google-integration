@@ -11,7 +11,8 @@
     ],
     "type": "project",
     "require": {
-		"php": ">=7.1"
+		"php": ">=7.1",
+        "league/oauth2-client": "^2.4"
     },
     "autoload": {
         "psr-4": {
